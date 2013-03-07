@@ -1,6 +1,12 @@
 # README
 
-## Installation
+## Some implemented features
+
+1. using herokus instagram feed to display photos
+2. facebook php login 
+3. dutch cookie law jQuery plugin (frontend/core/js/jquery/jquery.cookielaw.js)
+
+## Installation of Fork CMS
 
 1. Upload all of the content into your document root
 3. Browse to your website
