@@ -1,0 +1,2 @@
+<?php error_reporting(E_ALL | E_STRICT); ini_set('display_errors', 'On'); ?>
+<?php if(array_key_exists('widgetInstagramLatestPhoto', (array) $this->variables)) { echo $this->variables['widgetInstagramLatestPhoto']; } else { ?>{$widgetInstagramLatestPhoto}<?php } ?>
